@@ -14,11 +14,11 @@
 		<string>https://github.com/kaihatsuishin/git_practice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>git_Practice/git_Practice.xcodeproj</string>
+	<string>git_Practice.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>28FDD3AD756CEE7B2E1D90E5AB4A9CEE515C582A</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/kaihatsuishin/git_practice.git</string>
